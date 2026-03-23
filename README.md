@@ -17,18 +17,6 @@
 
 ## 🛠️ 技术栈
 
-* **语言**: Modern C++ (C++17/20)
-* **内存框架**: PCILEECH / MemProcFS 兼容
+* **语言**: Modern C++ (C++20/23)
 * **图形渲染**: DirectX 11 / ImGui
-* **开发环境**: Visual Studio 2022
-
-## 📂 项目结构
-
-```text
-├── src/                # 核心源代码
-│   ├── dma/            # DMA 读写封装与初始化
-│   ├── overlay/        # ImGui 渲染、窗口管理与 UI 逻辑
-│   └── utils/          # 偏移量管理、日志记录与工具类
-├── include/            # 项目头文件
-├── .gitignore          # Git 忽略配置（已过滤编译生成文件）
-└── README.md           # 项目说明文档
+* **开发环境**: Visual Studio 2026
